@@ -1,3 +1,58 @@
 Superuser
 username = admin
 password = admin@1356
+
+User1 :
+Username: Adrian
+Email: adrian@littlelemon.com
+Password: lemon@adr!
+Token: c970b82848b8660adaddfbd595e93a608d778af8
+
+
+User2 :
+Username: Mario
+Email: mario@littlelemon.com
+Password: lemon@mar!
+Token: 
+   
+
+User3 :
+Username: Sana
+Email: sana@littlelemon.com
+Password: lemon@san!
+Token: 
+
+
+User4:
+Username: Lucas
+Email: lucas@littlelemon.com
+Password: lemon@luc!
+Token: 
+
+
+User5:
+Username: Emma
+Email: emma@littlelemon.com
+Password: lemon@emm!
+Token: 
+
+
+User6:
+Username: Jack
+Email: jack@littlelemon.com
+Password: lemon@jac!
+Token: 
+
+
+User7:
+Username: Lily
+Email: lily@littlelemon.com
+Password: lemon@lil!
+Token: 
+
+
+User8:
+Username: Noah
+Email: noah@littlelemon.com
+Password: lemon@noa!
+Token: 
